@@ -9,7 +9,7 @@ I build secure, AI-ready data pipelines on AWS — combining data engineering, c
 - **RAG Pipelines** for real-time data sync
 
 ### 🛠️ Tech Stack
-- **Data:** SQL, Python (Pandas), Databricks, Snowflake, dbt, Apache Spark
+- **Data:** SQL, Python (Pandas), 
 - **AI/ML:** RAG, LangChain, Agentic AI, MLflow, Scikit-learn, TensorFlow
 - **Cloud:** AWS (EC2, S3, IAM, Lambda), Docker, Kubernetes, Terraform
 - **Security:** Wazuh SIEM, IAM, Network Log Analysis
