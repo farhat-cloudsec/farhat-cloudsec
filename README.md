@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Farhat 👋
 
-<!--
-**farhat-cloudsec/farhat-cloudsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & AI Engineer | Secure Cloud Data Platforms**
 
-Here are some ideas to get you started:
+I build secure, AI-ready data pipelines on AWS — combining data engineering, cloud infrastructure, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- **Digital Twin Platform for IoT Security** (Python, MQTT, AWS IoT Core)
+- **RAG Pipelines** for real-time data sync
+
+### 🛠️ Tech Stack
+- **Data:** SQL, Python (Pandas), Databricks, Snowflake, dbt, Apache Spark
+- **AI/ML:** RAG, LangChain, Agentic AI, MLflow, Scikit-learn, TensorFlow
+- **Cloud:** AWS (EC2, S3, IAM, Lambda), Docker, Kubernetes, Terraform
+- **Security:** Wazuh SIEM, IAM, Network Log Analysis
+
+### 📌 Featured Projects
+- [Cloud Infrastructure & Log Monitoring](link) — AWS, Wazuh, Python
+- [Secure Fraud Detection Pipeline](link) — FastAPI, MLflow, Docker
+- [Digital Twin Platform for IoT Security](link) — Ongoing
+
+### 📫 Connect with Me
+- LinkedIn: linkedin.com/in/farhat-iqbal
+- Email: Farhatchaudary34@gmail.com
