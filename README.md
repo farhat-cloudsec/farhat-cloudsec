@@ -15,7 +15,7 @@ I build secure, AI-ready data pipelines on AWS — combining data engineering, c
 - **Security:** Wazuh SIEM, IAM, Network Log Analysis
 
 ### 📌 Featured Projects
-- [Cloud Infrastructure & Log Monitoring](link) — AWS, Wazuh, Python
+-[ (https://github.com/farhat-cloudsec/Secure-DevSecOps-credit-fraud/tree/main) — AWS, Wazuh, Python
 - [Secure Fraud Detection Pipeline](link) — FastAPI, MLflow, Docker
 - [Digital Twin Platform for IoT Security](link) — Ongoing
 
