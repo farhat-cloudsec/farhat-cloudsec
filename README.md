@@ -15,9 +15,12 @@ I build secure, AI-ready data pipelines on AWS — combining data engineering, c
 - **Security:** Wazuh SIEM, IAM, Network Log Analysis
 
 ### 📌 Featured Projects
--[ (https://github.com/farhat-cloudsec/Secure-DevSecOps-credit-fraud/tree/main) — AWS, Wazuh, Python
-- [Secure Fraud Detection Pipeline](link) — FastAPI, MLflow, Docker
-- [Digital Twin Platform for IoT Security](link) — Ongoing
+-### 📌 Featured Projects
+
+- [IoMT Intrusion Detection](https://github.com/farhat-cloudsec/IoMT-intrusion-detection) — ML-based IDS for IoMT Networks
+- [Secure DevSecOps Credit Fraud](https://github.com/farhat-cloudsec/Secure-DevSecOps-credit-fraud) — End-to-end secure ML pipeline for credit card fraud detection with DevSecOps and MLOps practices
+- [AWS Production VPC Architecture](https://github.com/farhat-cloudsec/aws-production-vpc-architecture) — Production-ready, secure AWS architecture with Multi-AZ, Public/Private subnets, ALB, NAT Gateway, and Auto Scaling
+- [Battery Digital Twin](https://github.com/farhat-cloudsec/battery-twin) — Simulated battery digital twin with MQTT, TimescaleDB, anomaly detection and a Next.js dashboard
 
 ### 📫 Connect with Me
 - LinkedIn: linkedin.com/in/farhat-iqbal
